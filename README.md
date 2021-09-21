@@ -15,7 +15,7 @@
   <h3> How to Install Queen Zellie 🧝‍♀️💙 </h3>
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SinhalayaCreator/Queen_Zellie)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SinhalayaCreator/QueenZellie)
 
 
 ---
