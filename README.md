@@ -22,4 +22,26 @@
 
 ---
   
- 
+<div align="center">
+  <p>
+    <a href="https://github.com/SinhalayaCreator/QueenZellie"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSinhalayaCreator%2FQueenZellie&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/>
+      </a>
+    <a href="https://github.com/SinhalayaCreator/QueenZellie/fork"><img src="https://img.shields.io/github/forks/SinhalayaCreator/QueenZellie?label=Fork&style=social">
+      </a>
+    <a href="https://github.com/SinhalayaCreator/QueenZellie/stargazers"><img src="https://img.shields.io/github/stars/SinhalayaCreator/QueenZellie?style=social">
+      </p>
+   <p>
+     <a href="https://github.com/SinhalayaCreator/QueenZellie"><img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
+     </a>
+     <a href="https://github.com/SinhalayaCreator/QueenZellie"><img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=License&style=plastic">
+     </a>
+     <a href="https://github.com/SinhalayaCreator/QueenZellie"><img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
+     </a>
+     <a href="https://github.com/SinhalayaCreator/QueenZellie"><img src="https://img.shields.io/static/v1?label=Author&message=Sinhalaya%20Creator&color=purple&style=plastic">
+     </a>
+  </p>
+  </div>
+  
+     
+      
+   
