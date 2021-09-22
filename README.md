@@ -31,9 +31,11 @@
     <a href="https://github.com/SinhalayaCreator/QueenZellie/stargazers"><img src="https://img.shields.io/github/stars/SinhalayaCreator/QueenZellie?style=social">
       </p>
    <p>
-     <a href="https://github.com/SinhalayaCreator/QueenZellie"><img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
+     <a href="https://github.com/SinhalayaCreator/QueenZellie"><img src="https://img.shields.io/github/repo-size/SinhalayaCreator/QueenZellie?color=purple&label=Repo%20Size&style=plastic">
      </a>
-     <a href="https://github.com/SinhalayaCreator/QueenZellie"><img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=License&style=plastic">
+     <a href="https://github.com/SinhalayaCreator/QueenZellie"><img src="https://img.shields.io/github/license/SinhalayaCreator/QueenZellie?color=purple&label=License&style=plastic">
+     </a>
+     <a href="https://github.com/SinhalayaCreator/QueenZellie"><img src="https://img.shields.io/github/languages/top/SinhalayaCreator/QueenZellie?color=purple&label=Python&style=plastic">
      </a>
      <a href="https://github.com/SinhalayaCreator/QueenZellie"><img src="https://img.shields.io/static/v1?label=Author&message=Sinhalaya%20Creator&color=purple&style=plastic">
      </a>
