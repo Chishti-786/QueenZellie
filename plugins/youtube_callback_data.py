@@ -1,5 +1,3 @@
-plugins/youtube_callback_data.py 
-
 import asyncio
 import os
 
