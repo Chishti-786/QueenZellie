@@ -42,6 +42,30 @@
   </p>
   </div>
   
-     
-      
-   
+<br>
+  
+```
+Queen Zellie bot is an User Bot for Telegram . That allowing you to get done so many tasks.
+The user is responsible for all possible consequences of misuse.
+This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
+Additionally, it enables plug-in support for users.
+Install their own plugins to the original software and use as they please.
+Usage is entirely the responsibility of the user. The operating system is not responsible.
+HAVE A FUN!
+```     
+
+</br>
+<br>
+<p align="center">
+  Youtube Video Downloader only available now and stay tuned more features in the future.
+</p>
+<br>      
+
+---
+
+### License
+This project is protected by the `GNU General Public License v3.0.`
+Do not edit copyright messages!
+
+### Disclaimer
+`Telegram` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
