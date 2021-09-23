@@ -67,4 +67,4 @@ This project is protected by the `GNU General Public License v3.0.`
 Do not edit copyright messages!
 
 ### Disclaimer
-`Telegram` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
+`Telegram` name, its variations and logo are registered trademarks on `https://telegram.org` . We have nothing to do with the registered trademark.
