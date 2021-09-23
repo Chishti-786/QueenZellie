@@ -45,13 +45,13 @@ async def ytdl(_, message):
             os.makedirs(output_directory)
         thumb_image_path = f"{output_directory}.jpg"
         im.save(thumb_image_path,"jpeg")
-        await message.reply_photo(thumb_image_path, caption=title, reply_markup=buttons)
+        await message.reply_photo(thumb_image_path, caption=title++© 𝚀𝚞𝚎𝚎𝚗 𝚉𝚎𝚕𝚕𝚒𝚎 𝙿𝚞𝚋𝚕𝚒𝚌 | 2021, reply_markup=buttons)
         await sentm.delete()
     except Exception as e:
         print(e)
         try:
             thumbnail_url = "https://telegra.ph/file/ce37f8203e1903feed544.png"
-            await message.reply_photo(thumbnail_url, caption=title, reply_markup=buttons)
+            await message.reply_photo(thumbnail_url, caption=title++© 𝚀𝚞𝚎𝚎𝚗 𝚉𝚎𝚕𝚕𝚒𝚎 𝙿𝚞𝚋𝚕𝚒𝚌 | 2021, reply_markup=buttons)
         except Exception as e:
             await sentm.edit(
             f"<code>{e}</code> #Error")
