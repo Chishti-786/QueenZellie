@@ -55,7 +55,7 @@ HAVE A FUN!
 ```     
 
 </br>
-<br>
+
 <p align="center">
   Youtube Video Downloader only available now and stay tuned for more updates !
 </p>     
