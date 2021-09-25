@@ -1,3 +1,15 @@
+#Copyrigt (C) 2021 SinhalayaCreator
+
+ #
+ #░░░▄▀▄░█░█░█▀▀░█▀▀░█▀█░░
+ #░░░█\█░█░█░█▀▀░█▀▀░█░█░░
+ #░░░░▀\░▀▀▀░▀▀▀░▀▀▀░▀░▀░░
+ #░▀▀█░█▀▀░█░░░█░░░▀█▀░█▀▀
+ #░▄▀░░█▀▀░█░░░█░░░░█░░█▀▀
+ #░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀
+ #POWERED BY A.N.TECH CREW
+
+
 from datetime import datetime, timedelta
 from pyrogram import Client, Filters, InlineKeyboardMarkup, InlineKeyboardButton
 from bot import user_time
