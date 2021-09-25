@@ -1,3 +1,15 @@
+#Copyrigt (C) 2021 SinhalayaCreator
+
+ #
+ #░░░▄▀▄░█░█░█▀▀░█▀▀░█▀█░░
+ #░░░█\█░█░█░█▀▀░█▀▀░█░█░░
+ #░░░░▀\░▀▀▀░▀▀▀░▀▀▀░▀░▀░░
+ #░▀▀█░█▀▀░█░░░█░░░▀█▀░█▀▀
+ #░▄▀░░█▀▀░█░░░█░░░░█░░█▀▀
+ #░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀
+ #POWERED BY A.N.TECH CREW
+
+
 from __future__ import unicode_literals
 from pyrogram import Client, Filters, StopPropagation, InlineKeyboardButton, InlineKeyboardMarkup
 import youtube_dl
